@@ -1,0 +1,19 @@
+h1 {
+	font-size: 50px;
+	color: skyblue;
+}
+h2 {
+	font-size: 30px;
+	color: red;
+}
+.big {
+	font-size: 75px;
+	color: green;
+}
+.uppercase {
+	font-size: 65px;
+	color: pink;
+}
+span {
+	color: black;
+}
