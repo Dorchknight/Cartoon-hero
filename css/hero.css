@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: red;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1 {
+	color: white;
+	font-size: 50px;
+}
+h1, h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+header img {
+	border-radius: 250px;
+    width: 350px;
+    border: 8px solid white;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: red;
+	margin: 40px 0px 10px;
+}
+a {
+	color: red;
+}
+a:hover {
+	background-color: blue;
+	color: white;
+}
+
+footer {
+	background-color: red;
+	text-align: center;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+
+fotter p {
+	margin: 0;
+}
+
+p.caption{
+	color: red;
+	font-style: italic;
+	margin-top: 0;
+	font-size: 15px;
+}
